@@ -1,0 +1,24 @@
+{
+  "name": "common_denominator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/headblockhead/common_factor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/headblockhead/common_factor/issues"
+  },
+  "homepage": "https://github.com/headblockhead/common_factor#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "ts-node": "^9.1.0",
+    "typescript": "^4.1.2"
+  }
+}
